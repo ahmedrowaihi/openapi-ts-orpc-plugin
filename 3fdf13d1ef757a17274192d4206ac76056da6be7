@@ -1,0 +1,29 @@
+.npmignore
+  83390cc56b38d7ce 8,14-16
+types.ts
+  83390cc56b38d7ce 3,5-12
+input-builder.ts
+  83390cc56b38d7ce 17
+package.json
+  83390cc56b38d7ce 47-48
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.3",
+  "base_commit_sha": "3fdf13d1ef757a17274192d4206ac76056da6be7",
+  "prompts": {
+    "83390cc56b38d7ce": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "bdf4bdd1-f07b-4ef7-a95c-c1531cd08b82",
+        "model": "claude-sonnet-4-5-20250929"
+      },
+      "human_author": "ahmedrowaihi <ahmedrowaihi1@gmail.com>",
+      "messages": [],
+      "total_additions": 39,
+      "total_deletions": 15,
+      "accepted_lines": 23,
+      "overriden_lines": 1
+    }
+  }
+}
